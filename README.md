@@ -27,19 +27,11 @@ Solutions Engineer with 4+ years delivering enterprise SaaS, IAM/SSO and API int
 
 <img src="https://img.shields.io/badge/noel--quadri-apps--tools-0F6E56?style=flat-square&labelColor=0B3D2E" alt="apps-tools" />
 
-**TBridge** -- Frontend-only timezone conversion app comparing a source time across multiple cities. React, TypeScript, Vite, Luxon. DST-aware via IANA identifiers, shareable URL-serialised state, zero backend. Deployed on Vercel.
+**[TBridge](https://github.com/qhedroid/TBridge)** -- Offline-first timezone converter with intelligent city search and DST-aware IANA timezones.
 
-**CueBot** -- Discord music and audio bot: queue management, playback controls, automation.
+**[mediaforge-cuebot](https://github.com/qhedroid/mediaforge-cuebot)** -- TypeScript Discord music bot (CueBot) powered by MediaForge: uploaded files, URL playback, YouTube search, queue controls, local-first media preparation.
 
-**MediaForge** -- Personal media platform: content ownership, hosting, media management and streaming infrastructure.
-
-**SnipKit** -- macOS productivity app: clipboard history, snippets, placeholders, workflow automation.
-
-**DocShot** -- Screenshot and documentation assistant: OCR, annotation, documentation workflows.
-
-**Faide** -- AI-first platform for psychology-informed reflection and long-term user understanding. Technical co-founder: architecture, AI tooling strategy, MVP.
-
-<sub>Link these once each repo is public and pinned -- GitHub auto-links pinned repos below this README anyway, so exact URLs aren't required here.</sub>
+**[Minesweeper](https://github.com/qhedroid/Minesweeper)** -- Minesweeper made with HTML, CSS and JavaScript.
 
 ---
 
