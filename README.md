@@ -1,12 +1,22 @@
 <div align="center">
-  <img src="./assets/github-readme-banner-1280x320.png" alt="Noel Quadri -- qhedroid" width="100%" />
+  <img src="./assets/github-readme-banner-1280x320.png" alt="Noel Quadri -- noel-q" width="100%" />
 </div>
 
 <br>
 
-Solutions Engineer with 4+ years delivering enterprise SaaS, IAM/SSO and API integrations for global enterprise clients. Currently expanding into cloud infrastructure, platform engineering, DevOps and site reliability, building public projects in React and TypeScript along the way.
+Solutions Engineer with 4+ years delivering enterprise SaaS, IAM/SSO and API integrations for global enterprise clients. Currently expanding into cloud infrastructure, platform engineering, DevOps and site reliability, building public projects presented with honest engineering signals at [noel-q.dev](https://noel-q.dev).
 
-**Noel Quadri** · [LinkedIn](https://www.linkedin.com/in/noelquadri2001) · London, UK
+**Noel Quadri** · [noel-q.dev](https://noel-q.dev) · [LinkedIn](https://www.linkedin.com/in/noelquadri2001) · London, UK
+
+---
+
+### Portfolio: [noel-q.dev](https://noel-q.dev)
+
+My projects, presented with honest readiness signals: what's tested, what's documented, and what still needs doing.
+
+- **Projects** — 7 case studies with hygiene signals and proof points
+- **Chat** — an assistant that answers only from reviewed evidence on the site
+- **Role Matcher** — paste a job description, see what genuinely aligns
 
 ---
 
@@ -27,14 +37,16 @@ Solutions Engineer with 4+ years delivering enterprise SaaS, IAM/SSO and API int
 
 <img src="https://img.shields.io/badge/noel--quadri-apps--tools-0F6E56?style=flat-square&labelColor=0B3D2E" alt="apps-tools" />
 
-**[TBridge](https://github.com/qhedroid/TBridge)** -- Offline-first timezone converter with intelligent city search and DST-aware IANA timezones.
+**[testlane](https://github.com/noel-q/testlane)** -- QA test management workspace: test cases, runs, plans, requirements and defects in one traceable workflow. Next.js, Drizzle ORM, MySQL. [Case study](https://noel-q.dev/projects/testlane)
 
-**[mediaforge-cuebot](https://github.com/qhedroid/mediaforge-cuebot)** -- TypeScript Discord music bot (CueBot) powered by MediaForge: uploaded files, URL playback, YouTube search, queue controls, local-first media preparation.
+**[TBridge](https://github.com/noel-q/TBridge)** -- Offline-first timezone converter with intelligent city search and DST-aware IANA timezones. v1.0.0 [live on Vercel](https://tbridge-pied.vercel.app). [Case study](https://noel-q.dev/projects/timebridge)
 
-**[Minesweeper](https://github.com/qhedroid/Minesweeper)** -- Minesweeper made with HTML, CSS and JavaScript.
+**[mediaforge-cuebot](https://github.com/noel-q/mediaforge-cuebot)** -- Local-first TypeScript media pipeline (MediaForge) with a companion Discord bot (CueBot): config-driven FFmpeg planning, queue controls, local media preparation. [Case study](https://noel-q.dev/projects/mediaforge)
+
+**[Minesweeper](https://github.com/noel-q/Minesweeper)** -- Minesweeper made with HTML, CSS and JavaScript.
 
 ---
 
 <div align="center">
-  <sub>qhedroid · part of the <a href="https://www.linkedin.com/in/noelquadri2001">Noel Quadri</a> portfolio</sub>
+  <sub>noel-q · part of the <a href="https://noel-q.dev">Noel Quadri</a> portfolio</sub>
 </div>
