@@ -1,52 +1,47 @@
-<div align="center">
-  <img src="./assets/github-readme-banner-1280x320.png" alt="Noel Quadri -- noel-q" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+  <img src="./assets/banner-light.png" alt="Noel Quadri. I build tools that make engineering work calmer." width="100%">
+</picture>
 
-<br>
+Solutions engineer in London, moving into cloud and platform work. I build tools I use every day, and show each one with what is tested and what is still to do at [noel-q.dev](https://noel-q.dev).
 
-Solutions Engineer with 4+ years delivering enterprise SaaS, IAM/SSO and API integrations for global enterprise clients. Currently expanding into cloud infrastructure, platform engineering, DevOps and site reliability, building public projects presented with honest engineering signals at [noel-q.dev](https://noel-q.dev).
+### Work
 
-**Noel Quadri** · [noel-q.dev](https://noel-q.dev) · [LinkedIn](https://www.linkedin.com/in/noelquadri2001) · London, UK
+#### [DocShot](https://github.com/noel-q/docshot)
 
----
+<img src="./assets/docshot.png" alt="DocShot's video editor trimming a 29 second recording" width="100%">
 
-### Portfolio: [noel-q.dev](https://noel-q.dev)
+A Mac app for screenshots, recordings and quick notes on them. Everything stays on your Mac. Swift, SwiftUI and AppKit. [Case study](https://noel-q.dev/projects/docshot)
 
-My projects, presented with honest readiness signals: what's tested, what's documented, and what still needs doing.
+#### [Testlane](https://github.com/noel-q/testlane)
 
-- **Projects** — 7 case studies with hygiene signals and proof points
-- **Chat** — an assistant that answers only from reviewed evidence on the site
-- **Role Matcher** — paste a job description, see what genuinely aligns
+Test cases, runs, plans, requirements and defects in one place, all linked to each other. Next.js, Drizzle ORM and MySQL. [Case study](https://noel-q.dev/projects/testlane)
 
----
+#### HayoClub
 
-### Currently
+Bookings and payments for community sports clubs, being piloted with NetRunners. More here once the pilot is public.
 
-- Solutions Engineer at TransPerfect -- SSO/MFA/IAM implementations (SAML, OAuth, Okta, Azure AD), enterprise API integrations, CI/CD support on AWS
-- Studying for AWS Certified Solutions Architect – Associate (AWS Certified Cloud Practitioner, 2024)
-- Moving toward platform/cloud/DevOps/SRE roles -- see target roles on [LinkedIn](https://www.linkedin.com/in/noelquadri2001)
-- Founder of NetRunners, a 550+ member sports community, building an automated booking platform on WhatsApp Business API and Stripe
+#### [TimeBridge](https://github.com/noel-q/TBridge)
 
-### Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/timebridge-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/timebridge-light.png">
+  <img src="./assets/timebridge-light.png" alt="TimeBridge converting 17:00 in London to New York, Denver and Tokyo" width="100%">
+</picture>
 
-`AWS` `Azure` `Okta` `SAML/OAuth` `IAM` `CI/CD (CodePipeline, TeamCity)` `SQL` `Python` `React` `TypeScript` `Vite`
+Finds a meeting time that works across time zones. Works offline, with no account. [Live](https://tbridge.noel-q.dev) · [Case study](https://noel-q.dev/projects/timebridge)
 
----
+### Also
 
-### Pinned projects
+- [MediaForge and CueBot](https://github.com/noel-q/mediaforge-cuebot): a local media pipeline and the Discord music bot built on it
+- PortfolioOps: keeps my projects honest (private)
+- SnipKit: a snippet manager for the command line (paused)
 
-<img src="https://img.shields.io/badge/noel--quadri-apps--tools-0F6E56?style=flat-square&labelColor=0B3D2E" alt="apps-tools" />
+### Now
 
-**[testlane](https://github.com/noel-q/testlane)** -- QA test management workspace: test cases, runs, plans, requirements and defects in one traceable workflow. Next.js, Drizzle ORM, MySQL. [Case study](https://noel-q.dev/projects/testlane)
+- Solutions engineer at TransPerfect: single sign-on, identity and API integrations for large companies
+- Studying for AWS Solutions Architect Associate (AWS Certified Cloud Practitioner, 2024)
+- Running NetRunners, a badminton community of 550+ members
 
-**[TBridge](https://github.com/noel-q/TBridge)** -- Offline-first timezone converter with intelligent city search and DST-aware IANA timezones. v1.0.0 [live on Vercel](https://tbridge-pied.vercel.app). [Case study](https://noel-q.dev/projects/timebridge)
-
-**[mediaforge-cuebot](https://github.com/noel-q/mediaforge-cuebot)** -- Local-first TypeScript media pipeline (MediaForge) with a companion Discord bot (CueBot): config-driven FFmpeg planning, queue controls, local media preparation. [Case study](https://noel-q.dev/projects/mediaforge)
-
-**[Minesweeper](https://github.com/noel-q/Minesweeper)** -- Minesweeper made with HTML, CSS and JavaScript.
-
----
-
-<div align="center">
-  <sub>noel-q · part of the <a href="https://noel-q.dev">Noel Quadri</a> portfolio</sub>
-</div>
+<sub><a href="https://noel-q.dev">noel-q.dev</a> · <a href="https://www.linkedin.com/in/noelquadri2001">LinkedIn</a></sub>
